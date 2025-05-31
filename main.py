@@ -13,7 +13,7 @@ class WumpusWorldGUI:
         self.canvas_height = self.grid_size * self.cell_size  # Canvas height
 
         # Define possible agent moves (cardinal and diagonal)
-        self.moves = E
+        self.moves = [
             (-1, 0), (1, 0), (0, -1), (0, +1),  # Up, down, left, right
             (-1, -1), (-1, +1), (+1, -1), (+1, +1)  # Diagonal moves
         ]
