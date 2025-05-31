@@ -1,0 +1,6 @@
+# This app requires Python 3.8 or later
+# python_version >= 3.8
+
+# tkinter is part of the Python standard library for most distributions, especially on Windows and macOS.
+# If you're using Linux, you might need to install it separately via your package manager.
+tk==0.1.0  # Placeholder version; tkinter is bundled with Python, so versioning here is symbolic
