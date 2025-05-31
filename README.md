@@ -50,7 +50,8 @@ Wumpus World is a 4x4 grid-based environment in which:
    ```bash
    git clone https://github.com/mohammad-majoony/WumpusWorld.git
    cd WumpusWorld
-
+   ```
+   
 2. **Run the GUI**:
 
    ```bash
@@ -64,5 +65,3 @@ Wumpus World is a 4x4 grid-based environment in which:
 * Sound effects and animation
 * Support for different grid sizes or difficulty levels
 * Ability to save and replay past games
-
-```
